@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerHandler : MonoBehaviour
-{
+{#comment
     public bool CharacterSwitched = false;
     public Animator HudAnim0;
     public Animator HudAnim1;
